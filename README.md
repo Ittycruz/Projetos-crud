@@ -4,7 +4,7 @@
 
 ## 📌 Recursos usados neste projeto: 
 
-<img align="center" alt="icon-Xampp" height="30" width="40" src="icons/Xampp" style="max-width:100%;"></img> **Xampp -  https://www.apachefriends.org/pt_br/download.html)**
+<img align="center" alt="icon-Xampp" height="30" width="40" src="icons/style="max-width:100%;"></img> **Xampp -  https://www.apachefriends.org/pt_br/download.html)**
 
 
 
