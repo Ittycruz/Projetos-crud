@@ -22,5 +22,3 @@ atenciosamente squad projetos
 **Neste projeto 
 ## 📌 Recursos usados neste projeto: 
 
-
-## **Demo do nosso projeto:**
