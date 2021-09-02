@@ -16,8 +16,7 @@
 
 :boy: **- Yann Kadson**
 
-## :information_source: Ideia do Nosso Projeto: neste trabalho havèra uma introdução do crud,a squad de projetos adotou a idéia de fazer um crud sobre filmes. desenvolvemos este crud contendo: wireframe, tela de login, banco de dados , as funcionalidades, o Back. Cada integrante se esforçou pra trazer um ótimo resultado pra vocês Neste projeto.
-atenciosamente squad projetos
+## :information_source: Ideia do Nosso Projeto: neste trabalho havèra uma introdução do crud,a squad de projetos adotou a idéia de fazer um crud sobre filmes. desenvolvemos este crud contendo: wireframe, tela de login, banco de dados , as funcionalidades, o Back. Cada integrante se esforçou pra trazer um ótimo resultado pra vocês Neste projeto,atenciosamente squad projetos.
 
 ## 📌 Recursos usados neste projeto: 
 
