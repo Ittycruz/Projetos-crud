@@ -2,7 +2,7 @@
 
 ## Membros da Equipe de Projetos 
 
-:👧: **- Iris Dos Santos**
+👧: **- Iris Dos Santos**
 
 👦: **- Lucas Alves Moreira**
 
