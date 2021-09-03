@@ -32,7 +32,6 @@
 - [x] Checar se contém todas as ferramentas necessárias para a criação.
 - [x] Criação do Banco de Dados com Workbench.
 - [x] Integração PHP
-- [ ] Deploy no Github pages.
 - [x] ReadMe
  
 
